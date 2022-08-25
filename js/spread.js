@@ -11,4 +11,4 @@ const numbers2 = [98, 20, ...numbers, 45, 34];
 numbers.push(99)
 numbers2.push(555);
 console.log(numbers)
-console.log(numbers2)
+console.log(numbers2);
